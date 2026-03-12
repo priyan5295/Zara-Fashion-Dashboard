@@ -15,4 +15,7 @@ Autumn is the peak season
 Aisle placement generates highest sales volume
 
 🛠 Tools used: Excel — Pivot Tables, Slicers, Charts, Descriptive Statistics
+
 #Excel #DataAnalytics #Dashboard #DataVisualization #ZaraDataset
+
+LinkedIn: <a href="https://www.linkedin.com/in/sathiya-priyan-da/">Sathiya Priyan</a>
